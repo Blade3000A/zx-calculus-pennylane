@@ -1,0 +1,5 @@
+pennylane
+pyzx
+matplotlib
+numpy
+notebook
